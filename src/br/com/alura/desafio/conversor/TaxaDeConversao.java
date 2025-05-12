@@ -4,7 +4,6 @@ public class TaxaDeConversao {
     private double BRL;
     private double EUR;
     private double BOB;
-    private double COP;
     private double USD;
 
     public double getBRL() {
@@ -19,9 +18,6 @@ public class TaxaDeConversao {
         return BOB;
     }
 
-    public double getCOP() {
-        return COP;
-    }
 
     public double getUSD() {
         return USD;
